@@ -1,5 +1,5 @@
-#ifndef MERCY_0
-#define MERCY_O
+#ifndef MAIN_H
+#define MAIN_H
 
 #include <stdio.h>
 
