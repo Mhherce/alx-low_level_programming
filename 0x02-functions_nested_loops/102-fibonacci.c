@@ -10,7 +10,6 @@ int main(void)
 	unsigned long int b = 2;
 	unsigned long int c;
 	int i;
-
 	for (i = 0; i < 50; i++)
 	{
 		printf("%lu\n", a);		
